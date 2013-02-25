@@ -1,0 +1,3 @@
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:fespinoza/checklist_and_guides.wiki.git
